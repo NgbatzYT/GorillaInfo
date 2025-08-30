@@ -8,7 +8,8 @@
   "6XpyykmrCthKhFeUfkYGxv7xnXpoe2": "CCMV2",
   "cronos": "Cronos",
   "ORBIT": "Orbit (Weeb)",
-  "Violet On Top": "Violet Paid",
+  "Violet On Top": "Violet",
   "Vivid": "Vivid",
-  "ElixirMenu": "Elixir"
+  "ElixirMenu": "Elixir",
+  "VioletPaidUser": "Violet Paid"
 }
