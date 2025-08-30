@@ -1,14 +1,14 @@
 {
-  "ObsidianMC": "Obsidian.lol",
-  "genesis": "ShibaGT Genesis",
+  "ObsidianMC": "Obsidian",
+  "genesis": "Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
-  "Hidden Menu": "Hidden Menu",
-  "void": "Void Menu",
+  "Hidden Menu": "Hidden",
+  "void": "Void",
   "6XpyykmrCthKhFeUfkYGxv7xnXpoe2": "CCMV2",
-  "cronos": "Cronos Menu",
-  "ORBIT": "Orbit Menu (Weeb)",
-  "Violet On Top": "Violet Menu",
-  "Vivid": "Vivid Menu",
-  "ElixirMenu": "Elixir Menu"
+  "cronos": "Cronos",
+  "ORBIT": "Orbit (Weeb)",
+  "Violet On Top": "Violet Paid",
+  "Vivid": "Vivid",
+  "ElixirMenu": "Elixir"
 }
