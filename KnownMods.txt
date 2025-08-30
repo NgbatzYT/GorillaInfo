@@ -36,5 +36,9 @@
   "DeeTags": "Dee Tags",
   "Boy Do I Love Information": "BDILI",
   "NametagsPlusPlus": "Nametags++",
-  "WalkSimulator": "WalkSim ZlothY Fix"
+  "WalkSimulator": "WalkSim ZlothY Fix",
+  "kingbingus.oculusreportmenu": "ORM",
+  "Dingus", "dingus",
+  "Graze Heath System, "Health System",
+  "Gorilla Track Packed", "Gorilla Track"
 }
