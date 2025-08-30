@@ -38,7 +38,7 @@
   "NametagsPlusPlus": "Nametags++",
   "WalkSimulator": "WalkSim ZlothY Fix",
   "kingbingus.oculusreportmenu": "ORM",
-  "Dingus", "dingus",
-  "Graze Heath System, "Health System",
-  "Gorilla Track Packed", "Gorilla Track"
+  "Dingus": "dingus",
+  "Graze Heath System: "Health System",
+  "Gorilla Track Packed": "Gorilla Track"
 }
