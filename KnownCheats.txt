@@ -11,5 +11,6 @@
   "Violet On Top": "Violet",
   "Vivid": "Vivid",
   "ElixirMenu": "Elixir",
-  "VioletPaidUser": "Violet Paid"
+  "VioletPaidUser": "Violet Paid",
+  "Fusioned: "Fusioned"
 }
