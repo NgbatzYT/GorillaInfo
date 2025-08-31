@@ -12,5 +12,5 @@
   "Vivid": "Vivid",
   "ElixirMenu": "Elixir",
   "VioletPaidUser": "Violet Paid",
-  "Fusioned: "Fusioned"
+  "Fusioned": "Fusioned"
 }
