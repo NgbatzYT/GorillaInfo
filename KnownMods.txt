@@ -31,6 +31,7 @@
   "BananaPhone": "Banana Phone",
   "CustomMaterial": "Custom Cosmetics",
   "cheese is gouda": "WhoIsThatMonke",
+  "WhoIsThatMonke": "WhoIsThatMonke Recode",
   "I like cheese": "awawe",
   "GorillaNametags": "GNametags",
   "DeeTags": "Dee Tags",
