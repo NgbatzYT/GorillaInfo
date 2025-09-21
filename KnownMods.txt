@@ -42,5 +42,20 @@
   "Dingus": "dingus",
   "Graze Heath System": "Health System",
   "MonkeCosmetics::Material": "Monke Cosmetics",
+  "ObsidianMC": "Obsidian",
+  "genesis": "Genesis",
+  "elux": "Elux",
+  "VioletFreeUser": "Violet Free",
+  "Hidden Menu": "Hidden",
+  "void": "Void",
+  "6XpyykmrCthKhFeUfkYGxv7xnXpoe2": "CCMV2",
+  "cronos": "Cronos",
+  "ORBIT": "Orbit (Weeb)",
+  "Violet On Top": "Violet",
+  "Vivid": "Vivid",
+  "ElixirMenu": "Elixir",
+  "VioletPaidUser": "Violet Paid",
+  "Fusioned": "Fusioned",
+  "EmoteWheel": "Emotes"
   "Gorilla Track Packed": "Gorilla Track"
 }
