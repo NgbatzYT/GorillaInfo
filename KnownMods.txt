@@ -41,7 +41,7 @@
   "kingbingus.oculusreportmenu": "ORM",
   "Dingus": "dingus",
   "Graze Heath System": "Health System",
-  "MonkeCosmetics": "Monke Cosmetics",
+  "MonkeCosmetics::Material": "Monke Cosmetics",
   "ObsidianMC": "Obsidian (cheat)",
   "genesis": "Genesis (cheat)",
   "elux": "Elux (cheat)",
