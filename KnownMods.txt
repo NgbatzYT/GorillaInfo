@@ -41,5 +41,6 @@
   "kingbingus.oculusreportmenu": "ORM",
   "Dingus": "dingus",
   "Graze Heath System": "Health System",
+  "MonkeCosmetics::Material": "Monke Cosmetics",
   "Gorilla Track Packed": "Gorilla Track"
 }
