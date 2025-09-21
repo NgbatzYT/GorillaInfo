@@ -56,6 +56,6 @@
   "ElixirMenu": "Elixir (cheat)",
   "VioletPaidUser": "Violet Paid (cheat)",
   "Fusioned": "Fusioned (cheat)",
-  "EmoteWheel": "Emotes (cheat)"
+  "EmoteWheel": "Emotes (cheat)",
   "Gorilla Track Packed": "Gorilla Track"
 }
