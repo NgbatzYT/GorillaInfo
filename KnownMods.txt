@@ -57,5 +57,6 @@
   "VioletPaidUser": "Violet Paid (cheat)",
   "Fusioned": "Fusioned (cheat)",
   "EmoteWheel": "Emotes (cheat)",
+  "Gorilla Track 2.3.0": "Gorilla Track",
   "Gorilla Track Packed": "Gorilla Track"
 }
