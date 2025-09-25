@@ -57,6 +57,8 @@
   "VioletPaidUser": "Violet Paid (cheat)",
   "Fusioned": "Fusioned (cheat)",
   "EmoteWheel": "Emotes (cheat)",
+  "\grnjiughurehhreuhghrebiuvbrheubfgudejhbgfuhdsguyh_jernbghjerhbhuj.rejugerufuweghguiye/rejughuywregfuyrewgfuygerwb\n\n\n\njghurfehgfuyeryheruihui_juhjg=gkrengjre": "Resurgance? (cheat)",
+  "y u lookin in here weirdo": "Resurgance? (cheat)",
   "Gorilla Track 2.3.0": "Gorilla Track",
   "Gorilla Track Packed": "Gorilla Track"
 }
