@@ -49,7 +49,6 @@
   "4ACA3C76B334B17F": "Wihz",
   "41988726285E534E": "Colussus",
   "571776944B6162F1": "CubCub",
-  "FB5FCEBC4A0E0387": "PepsiDee",
   "645222265FB972B": "Chaotic Asriel",
   "BC99FA914F506AB8": "Lemming Steam",
   "3A16560CA65A51DE": "Lemming Quest",
